@@ -1,15 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" 
-          content="width=device-width, initial-scale=1.0">
-    <title>AI Chatbot for Customer Service</title>
-    <link rel="stylesheet" href=
-"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-    <link rel="stylesheet" href="style.css">
-</head>
+<!-- Any code before for start of the HTML code. You paste the below code in body section to create Chatbot bubble --> 
 
 <body>
 <script type="text/javascript">
@@ -17,7 +6,7 @@
       var v = d.createElement(t), s = d.getElementsByTagName(t)[0];
       v.onload = function() {
         window.voiceflow.chat.load({
-          verify: { projectID: '678cd1654e984c4ee9b1dab8' },
+          verify: { projectID: 'XXXXXXXXXXXXXXX' },
           url: 'https://general-runtime.voiceflow.com',
           versionID: 'production'
         });
@@ -27,4 +16,4 @@
 </script>
 
 </body>
-</html>
+
