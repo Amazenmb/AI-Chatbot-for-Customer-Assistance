@@ -10,5 +10,8 @@ This is a project for building an AI chatbot using Voiceflow. Its a Low code (al
 3. Any reference Website for which you want to create the chatbot.
 
    For detailed steps, please refer my Medium article here: https://medium.com/@nishamb09/5-easy-steps-to-build-an-ai-chatbot-for-your-website-3bd4423beee5
+   
+   Here is the prototype link where one can interact with:
+   https://creator.voiceflow.com/prototype/678cd1654e984c4ee9b1dab9
 
    
