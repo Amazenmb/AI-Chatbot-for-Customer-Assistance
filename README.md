@@ -1,4 +1,4 @@
-# AI-Chatbot-for-Customer-Service
+# AI-Chatbot-for-Customer-Assistance
 This is a project for building an AI chatbot using Voiceflow. Its a Low code (almost No-code) project. 
 **Platforms/ Tools used**:
 1. Voiceflow
